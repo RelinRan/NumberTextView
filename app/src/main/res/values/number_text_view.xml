@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="numbersTextSize" format="dimension|reference" />
+    <attr name="numberMarginTop" format="dimension|reference" />
+    <attr name="numberMarginRight" format="dimension|reference" />
+    <attr name="numberText" format="string|reference" />
+    <attr name="numberTextColor" format="color|reference" />
+    <attr name="numberTextSize" format="dimension|reference" />
+    <attr name="numberSolidColor" format="color|reference" />
+    <declare-styleable name="NumberTextView">
+        <attr name="numberMarginTop" />
+        <attr name="numberMarginRight" />
+        <attr name="numberSolidColor" />
+        <attr name="numberTextColor" />
+        <attr name="numberTextSize" />
+        <attr name="numberText" />
+    </declare-styleable>
+</resources>
